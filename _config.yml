@@ -1,0 +1,5 @@
+title: "open-magpie-6"
+description: "High availability  and network topology specifications for yetone/magpie (Extended cloud-native edition & architecture specifications)"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
